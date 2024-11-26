@@ -1,7 +1,3 @@
-Aqui está um exemplo de README que combina modernidade com um tom profissional, baseado nas informações fornecidas:
-
----
-
 # 💻 João Marcelo | Estudante de ADS  
 🌟 Bem-vindo ao meu GitHub!  
 
@@ -33,13 +29,5 @@ Minha jornada tem como objetivo não apenas adquirir conhecimento técnico, mas 
 
 ## 🚀 Vamos nos Conectar!  
 Sinta-se à vontade para explorar meus projetos, dar sugestões ou colaborar em algo!  
-📩 **Email**: [SeuEmail@exemplo.com](mailto:SeuEmail@exemplo.com)  
-💼 **LinkedIn**: [SeuLinkedIn](#)  
-
----
-
-_✨ "A tecnologia é a arte de transformar ideias em soluções."_  
-
----
-
-Se precisar de ajuda para personalizar ou adicionar detalhes, é só me avisar! 😊
+📩 **Email**: (joaomarcelolobo24@gmail.com)  
+💼 **LinkedIn**: [TorresLobo](www.linkedin.com/in/torreslobo)  
