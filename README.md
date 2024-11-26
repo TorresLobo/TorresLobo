@@ -27,5 +27,5 @@ Minha jornada tem como objetivo não apenas adquirir conhecimento técnico, mas 
 
 ## 🚀 Vamos nos Conectar!  
 Sinta-se à vontade para explorar meus projetos, dar sugestões ou colaborar em algo!  
-📩 **Email**: [joaomarcelolobo24@gmail.com]  
+📩 **Email**: joaomarcelolobo24@gmail.com  
 💼 **LinkedIn**: [TorresLobo](www.linkedin.com/in/torreslobo)  
